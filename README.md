@@ -1,6 +1,7 @@
 # Frontend Mentor - Social Media Dashboard With Theme Switcher
 
-![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
+![SocialDashboard](https://user-images.githubusercontent.com/66078558/129825870-c53faa5a-7f7c-498c-bcd9-a82b8a56f651.png)
+
 <hr>
 <h3>You can visit at: <a href="https://socialmediadashboard-phi.vercel.app/" target="_blank">Vercel - Social Media Dashboard With Theme Switcher</a>
 <br><br> and: <a href="https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-html-css-javascript-PomHMSf9K" target="_blank">Frontend Mentor - Social Media Dashboard With Theme Switcher</a>
