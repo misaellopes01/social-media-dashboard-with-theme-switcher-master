@@ -2,8 +2,8 @@
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
 <hr>
-<h3>You can visit at: <a href="https://huddlelandingpage-rosy.vercel.app/" target="_blank">Vercel - Social Media Dashboard With Theme Switcher</a>
-<br><br> and: <a href="https://www.frontendmentor.io/solutions/huddle-landing-page-html5-css3-flex-dWu8znDir" target="_blank">Frontend Mentor - Social Media Dashboard With Theme Switcher</a>
+<h3>You can visit at: <a href="https://socialmediadashboard-phi.vercel.app/" target="_blank">Vercel - Social Media Dashboard With Theme Switcher</a>
+<br><br> and: <a href="https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-html-css-javascript-PomHMSf9K" target="_blank">Frontend Mentor - Social Media Dashboard With Theme Switcher</a>
 </h3>
 <hr>
 <h3>Used languages:</h3>
