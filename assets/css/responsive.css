@@ -1,0 +1,154 @@
+@media (max-width: 1366px){
+    main{
+        width: 84%;
+    }
+}
+@media (max-width: 1280px){
+    main{
+        width: 92%;
+    }
+}
+@media (max-width: 1200px){
+    body.active{
+        background-color: hsl(230, 17%, 14%); 
+    }
+    header{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 2rem 0;
+        padding-left: 1.5rem;
+        padding-right: 0rem;
+    }
+    header.active{
+        width: 100%;
+        height: 265px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        background: hsl(232, 19%, 15%);
+        padding: 2rem 0;
+        padding-left: 1.5rem;
+        padding-right: 0rem;
+    }
+    header .social-dash{
+        width: 100%;
+        padding-right: 2rem;
+    }
+    header .dark{
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+        padding-right: 2rem;
+    }
+    header.active .dark{
+        padding-top: 0rem;
+    }
+    header.active .dark label{
+       font-size: 1rem;
+    }
+    header .social-dash h1{
+        font-size: 1.5rem;
+    }
+    header .social-dash p{
+        border-bottom: 1px solid hsl(228, 12%, 44%);
+        margin-bottom: 1rem;
+        opacity: .8;
+    }
+    header .dark input[type=range]{
+        width: 55px;
+        height: 25px;
+    }
+    header .dark input[type=range]::-webkit-slider-thumb{
+        width: 20.5px;
+        height: 20.5px;
+    }
+    main{
+        width: 88%;
+    }
+    main .dashboard{
+        width: 100%;
+        display: inline-grid;
+        grid-template-columns: 1fr;
+        column-gap: 0px;
+        row-gap: 30px;
+    }
+    main .dashboard div{
+        width: 325px;
+        justify-content: center;
+        flex-direction: column;
+        border-radius: 8px;
+    }
+    main .dashboard div .social{
+        padding: 0 7.2rem;
+    }
+    main .dashboard div .social2{
+        padding: 0 6.6rem;
+    }
+    .social h2{
+        font-size: .8rem;
+    }
+    .social2 h2{
+        font-size: .8rem;
+    }
+    .dashboard p{
+        font-size: 4rem;
+    }
+    .dashboard h3{
+        font-size: .8rem;
+    }
+    .dashboard .statics h4{
+        font-size: .8rem;
+        margin-right: 7.7rem;
+        margin-bottom: .8rem;
+    }
+    .dashboard .staticsIn h4{
+        font-size: .8rem;
+        margin-right: 7.4rem;
+        margin-bottom: 0rem;
+    }
+    .h4Color{
+        margin-right: 7.5rem!important;
+    }
+    .dashboard .statics .seta{
+        background-size: 10px;
+        background-position: 132px;
+    }
+    .dashboard .statics .seta2{
+        background-size: 10px;
+        background-position: 130px;
+    }
+    .dashboard .back .staticsIn .seta{
+        background-size: 10px;
+        background-position: 125px;
+    }
+    .overview{
+        width: 100%;
+        height: 1230px;
+        margin-top: 4rem;
+    }
+    .overview h2{
+        font-size: 1.4rem;
+    }
+    .overview .overview-grid{
+        margin-top: 1.8rem;
+        width: 100%;
+        display: inline-grid;
+        grid-template-columns: 1fr;
+        column-gap: 30px;
+        row-gap: 20px;
+    }
+    .overview .overview-grid .overview-card{
+        width: 325px;
+        height: 125px;
+    }
+    footer { 
+        font-size: 13px;
+        height: 40px;
+        padding-bottom: 2rem;
+    }
+}
+@media (max-width: 232px) {
+    main.active{
+        margin-top: 1rem;
+    }
+}
